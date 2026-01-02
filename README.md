@@ -177,7 +177,7 @@ All detection screenshots and results are stored in the **outputs/** folder.
 
 ## 👩‍💻 Author
 
-** V Tejo Vamsi **  
+**V Tejo Vamsi**  
 AI Engineer | Computer Vision | IoT Systems
 
 ---
